@@ -1,0 +1,1 @@
+# Carregamento-de-Dados-em-rvore-Binaria-a-Partir-de-Arquivos-CSV-2019-2023
